@@ -3,9 +3,6 @@ import qrcode from "qrcode-terminal";
 
 const client = new Client({
   authStrategy: new LocalAuth(),
-    puppeteer:{
-        args: ['--no-sandbox']
-    }
 });
 
 client.on("qr", (qr) => {

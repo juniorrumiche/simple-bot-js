@@ -1,0 +1,24 @@
+2023/04/30-16:45:23.611 181b7b Creating DB /home/junior/aprendizaje/bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/04/30-16:45:23.758 181b7b Reusing MANIFEST /home/junior/aprendizaje/bot/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/30-16:45:24.144 181b82 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/30-16:46:01.269 181b82 Level-0 table #5: started
+2023/04/30-16:46:01.489 181b82 Level-0 table #5: 1098043 bytes OK
+2023/04/30-16:46:01.563 181b82 Delete type=0 #3
+2023/04/30-16:46:07.071 181b7b Level-0 table #7: started
+2023/04/30-16:46:07.252 181b7b Level-0 table #7: 1157283 bytes OK
+2023/04/30-16:46:07.327 181b7b Delete type=0 #4
+2023/04/30-16:46:07.333 181b7b Compacting 1@1 + 1@2 files
+2023/04/30-16:46:07.487 181b7b Generated table #8@1: 22641 keys, 1342911 bytes
+2023/04/30-16:46:07.487 181b7b Compacted 1@1 + 1@2 files => 1342911 bytes
+2023/04/30-16:46:07.561 181b7b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/30-16:46:35.123 181c2d Level-0 table #10: started
+2023/04/30-16:46:35.414 181c2d Level-0 table #10: 1051495 bytes OK
+2023/04/30-16:46:35.488 181c2d Delete type=0 #6
+2023/04/30-16:46:35.488 181c2d Delete type=2 #5
+2023/04/30-16:46:35.488 181c2d Delete type=2 #7
+2023/04/30-16:46:35.503 181b7b Compacting 1@1 + 1@2 files
+2023/04/30-16:46:35.793 181b7b Generated table #11@1: 29931 keys, 1762651 bytes
+2023/04/30-16:46:35.793 181b7b Compacted 1@1 + 1@2 files => 1762651 bytes
+2023/04/30-16:46:35.867 181b7b compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/30-16:46:35.867 181b7b Delete type=2 #10
+2023/04/30-16:46:35.867 181b7b Delete type=2 #8
