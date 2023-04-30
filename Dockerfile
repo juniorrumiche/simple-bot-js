@@ -3,7 +3,11 @@ FROM node:19-buster
 RUN apt-get update && \
   apt-get install -y chromium && \
   rm -rf /var/lib/apt/lists/*
-WORKDIR /app
+
+RUN adduser --disabled-password --gecos "" junior
+USER junior
+
+WORKDIR /home/junior/app
 
 COPY package.json .
 
